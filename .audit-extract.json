@@ -1,0 +1,28 @@
+{
+  "repo": "flow-mcp",
+  "description": "Model Context Protocol (MCP) server for the Flow network. Connect Claude, Cursor, and other AI assistants to Flow for agent-native development",
+  "topics": [
+    "flow",
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "claude",
+    "cursor",
+    "ai-tools",
+    "typescript",
+    "developer-tools",
+    "web3",
+    "agent-infrastructure",
+    "ai-native"
+  ],
+  "h1_suggestion": "# flow-mcp \u2014 Model Context Protocol Server for the Flow Network",
+  "homepage_url": null,
+  "deprecated_urls": [],
+  "brand_voice_fixes": [
+    {
+      "find": "Flow blockchain",
+      "replace": "the Flow network"
+    }
+  ],
+  "audit_file": "flow-mcp-audit-2026-04-20.md"
+}

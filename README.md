@@ -1,6 +1,6 @@
-# @outblock/flow-mcp
+# flow-mcp — Model Context Protocol Server for the Flow Network
 
-Flow blockchain tools for Model Context Protocol (MCP). This package provides a set of tools for interacting with the Flow blockchain through the Model Context Protocol.
+The Flow network tools for Model Context Protocol (MCP). This package provides a set of tools for interacting with the Flow network through the Model Context Protocol.
 
 <a href="https://glama.ai/mcp/servers/@Outblock/flow-mcp">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@Outblock/flow-mcp/badge" alt="Flow MCP server" />
@@ -248,3 +248,11 @@ MIT License - see LICENSE for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+## About Flow
+
+This repo is part of the [Flow network](https://flow.com), a Layer 1 blockchain built for consumer applications, AI agents, and DeFi at scale.
+
+- Developer docs: https://developers.flow.com
+- Cadence language: https://cadence-lang.org
+- Community: [Flow Discord](https://discord.gg/flow) · [Flow Forum](https://forum.flow.com)
+- Governance: [Flow Improvement Proposals](https://github.com/onflow/flips)
