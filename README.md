@@ -248,6 +248,7 @@ MIT License - see LICENSE for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## About Flow
 
 This repo is part of the [Flow network](https://flow.com), a Layer 1 blockchain built for consumer applications, AI agents, and DeFi at scale.
